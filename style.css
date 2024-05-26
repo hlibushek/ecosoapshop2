@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: #FFC740;
+    background-color: HoneyDew;
 }
 
 h1 {
@@ -9,7 +9,7 @@ h1 {
 }
 
 nav {
-    background-color: lightgreen;
+    background-color: SteelBlue;
     display: flex;
     justify-content: space-between;
     border-top: 5px solid black;
@@ -50,7 +50,7 @@ h2 {
     flex-wrap: wrap;
     width: 700px;
     margin: 0 auto;
-    background-image: linear-gradient(to right, #FFC740, white, #FFD673);
+    background-image: linear-gradient(to right, SteelBlue, white, SteelBlue);
 }
 
 .product {
@@ -60,7 +60,7 @@ h2 {
     border: 10px double rgb(0, 0, 0);
     margin-top: 40px;
     margin-bottom: 40px;
-    background-color: lightgreen;
+    background-color: SteelBlue;
     position: relative;
 }
 
