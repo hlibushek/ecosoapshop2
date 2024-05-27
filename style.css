@@ -40,7 +40,7 @@ h2 {
 .catalog a {
     text-decoration: none;
     color: black;
-    border-bottom: 1px dotted black;
+    border-bottom: 1px dotted pink;
     font-size: 20px;
 }
 
@@ -48,7 +48,7 @@ h2 {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    width: 700px;
+    width: 1200px;
     margin: 0 auto;
     background-image: linear-gradient(to right, SteelBlue, white, SteelBlue);
 }
@@ -78,8 +78,8 @@ h2 {
 
 .principles {
     display: flex;
-    border-top: 5px solid lightgreen;
-    border-bottom: 5px solid lightgreen;
+    border-top: 5px solid Orchid;
+    border-bottom: 5px solid Orchid;
     justify-content: space-between; 
     width: 700px;
     margin: 0 auto;
@@ -88,7 +88,7 @@ h2 {
 }
 
 .principle {
-    width: 120px;
+    width: 300px;
 }
 
 .question-answer {
